@@ -1,0 +1,11 @@
+development:
+  dialect: "sqlite3"
+  database: C:\Users\herrs\go\src\site1/site1_development.sqlite
+
+test:
+  dialect: "sqlite3"
+  database: C:\Users\herrs\go\src\site1/site1_test.sqlite
+
+production:
+  dialect: "sqlite3"
+  database: C:\Users\herrs\go\src\site1/site1_production.sqlite
